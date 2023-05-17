@@ -1,2 +1,2 @@
 # photopia-helper
-A helper user interface that will streamline the process of uploading photos to my personal photography website
+This is a standalone platform that I'm actively developing to serve as a helper user interface to streamline my photo uploading process. 
